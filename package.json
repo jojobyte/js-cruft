@@ -1,0 +1,17 @@
+{
+  "name": "jscruft",
+  "version": "0.0.0",
+  "description": "Demonstrating the landscape of framework-based components",
+  "author": "jojobyte <byte@jojo.io> (https://jojo.io/)",
+  "main": "index.js",
+  "packageManager": "pnpm@8.12.1",
+  "keywords": [],
+  "private": true,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jojobyte/jscruft.git"
+  },
+  "scripts": {
+  }
+}
